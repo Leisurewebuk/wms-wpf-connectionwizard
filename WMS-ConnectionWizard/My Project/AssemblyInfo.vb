@@ -11,12 +11,12 @@ Imports System.Windows
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WMS_ConnectionWizard")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyTitle("WMS Connection Wizard")>
+<Assembly: AssemblyDescription("WMS Connection Wizard")>
+<Assembly: AssemblyCompany("LeisureWebUK Ltd.")>
 <Assembly: AssemblyProduct("WMS_ConnectionWizard")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("LeisureWebUK Ltd.")>
 <Assembly: ComVisible(false)>
 
 'In order to begin building localizable applications, set 
@@ -55,5 +55,5 @@ Imports System.Windows
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.0.0.1")>
+<Assembly: AssemblyFileVersion("1.0.0.1")>
